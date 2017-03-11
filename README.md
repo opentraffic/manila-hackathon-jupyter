@@ -1,6 +1,6 @@
 ## Open Traffic Hackathon Data
 
-This project contains information about Open Traffic data sets, plus example analysis using Python 
+This project contains information about Open Traffic data sets, plus example analysis techniques  using Python 
 and Jupyter Notebook.
 
 ### Data
