@@ -23,7 +23,7 @@ Example code in this project makes use of the following python modules: numpy, p
 With Jupyter installed copy the contents of this project into your notebook working directory. 
 
 Alternatively you can use a pre-built Docker image with Jupyter and this project pre-configured. 
-With [Docker installed](https://www.docker.com/community-edition#download) and run the following command from the terminal:
+With [Docker installed](https://www.docker.com/community-edition#download), run the following command from the terminal:
 
 `docker pull opentraffic/hackathon`
 
