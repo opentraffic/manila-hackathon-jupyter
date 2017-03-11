@@ -73,3 +73,5 @@ def getGeoData(city):
     os.remove(cityDataDirectory + zipFilename)
 
     print "Downloaded " + shpFilename 
+    
+    return cityDataDirectory + shpFilename
