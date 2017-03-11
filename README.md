@@ -5,7 +5,7 @@ and Jupyter Notebook.
 
 ### Data
 
-As part of the hackathon, OpenTraffic is making avaialble data from 2016 for Cebu and Manila metro regions. 
+As part of the hackathon, OpenTraffic is making avaialble data from 2016 for the Cebu and Manila metro regions. 
 The data is availabe as CSV files with average traffic speeds by day and hour for each roadway segment. Additionally, a 
 Shapefile contains the geometry for each roadway segment. The CSV and Shapefiles can be linked via the "edge_id" found in both files.
 
