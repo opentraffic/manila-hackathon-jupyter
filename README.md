@@ -44,8 +44,8 @@ Once running you'll see the message:
 average roadway speeds by day of week and hour of day.
 
 *Example 2:* Combine CSV data with Shapefile. This example uses a GeoJSON bounding box to select a subset of street segments in Cebu, 
-and calculates the average travel speed using this filter subset of streets. This demonstates both the CSV and Shapefile analysis steps, 
-and basic geospatial analysis techniques. 
+and calculates the average travel speed using this filtered subset of streets. This demonstates data loading and analysis, 
+and geospatial analysis techniques. 
 
 
 
