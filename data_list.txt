@@ -4,7 +4,7 @@ http://ph-opentraffic-data.s3-website-ap-southeast-1.amazonaws.com/
 
 Data is divided into a /cebu and /manila directory. Each city has:
  - a Shapefile export containing geomety and edge_id for each road segment
- - a set of weekly CSV data files (date in name is first day of week)
+ - a set of weekly CSV data files (date in name is first day of week) with traffic speeds by day, hour, and road segment
 
 Shapefile and CSV data can be linked using the edge_id column in the CSV. 
 
